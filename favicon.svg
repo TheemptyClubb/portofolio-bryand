@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bentuk perisai geometris -->
+  <path d="M16 2L4 8V18C4 24.0751 10 29 16 30C22 29 28 24.0751 28 18V8L16 2Z" fill="#0b0e13" stroke="#c9903f" stroke-width="2"/>
+  <!-- Titik di tengah perisai -->
+  <circle cx="16" cy="18" r="4" fill="#c9903f"/>
+</svg>
